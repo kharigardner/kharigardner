@@ -62,13 +62,6 @@ Connect with me on:
 -------------------------
 ### **My Stats**
 
-<style>
-    @media screen and (max-width: 750px) {
-        .column {
-            width: 100%;
-            }
-    }
-</style>
 <div class="row">
     <div class="column" align=left>
         <a href="https://git.io/streak-stats">
